@@ -1,0 +1,13 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f55;
+  box-sizing: border-box;
+  border: #000 solid 4px;
+  height: 100%;
+}
